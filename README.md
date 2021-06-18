@@ -8,6 +8,12 @@ Responsive Template written in HTML5,CSS & Javacript.
 [fork my repository](https://github.com/user/repository/fork)
 
 
+#Author
+
+|Name|Email|    
+|----|-----|   
+|Krishna|krishna6688@outlook.com|
+
 # _**ＬＯＧＯ**_
 
 <p align="center">
