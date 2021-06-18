@@ -10,7 +10,7 @@ Responsive Template written in HTML5,CSS & Javacript.
 [![fork my repository](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/user/repository/fork)
 
 
-#Author
+# Author
 
 |Name|Email|    
 |----|-----|   
