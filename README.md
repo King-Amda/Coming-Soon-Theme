@@ -43,7 +43,7 @@ Host in any platform, codes are responsive as well as friendly and simple to und
 
 # License
 
-[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)
+[![License](https://img.shields.io/badge/Apache-2.0-red?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 
 
