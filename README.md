@@ -3,7 +3,7 @@
 Responsive Template written in HTML5,CSS & Javacript.
 
 
-[Demo](https://krishna6688.github.io/Exmatrix/)
+ [!Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](https://krishna6688.github.io/Exmatrix/)
 
 [fork my repository](https://github.com/user/repository/fork)
 
