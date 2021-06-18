@@ -5,6 +5,8 @@ Responsive Template written in HTML5,CSS & Javacript.
 
 [Demo](https://krishna6688.github.io/Exmatrix/)
 
+[fork my repository](https://github.com/user/repository/fork)
+
 
 # _**ＬＯＧＯ**_
 
@@ -18,8 +20,6 @@ Responsive Template written in HTML5,CSS & Javacript.
 <br>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/Krishna6688/exmatrix)
-[![Stars](https://img.shields.io/github/stars/Team-Zeda/Zeda-Userbot?&style=flat-square)]( https://github.com/Krishna6688/exmatrix/stargazers)
-[![Forks](https://img.shields.io/github/forks/Team-Zeda/Zeda-Userbot?&style=flat-square)]( https://github.com/Krishna6688/exmatrix/network/members)
 ![Repo Size](https://img.shields.io/github/repo-size/Krishna6688/exmatrix?style=flat-square)
 <br>
 
