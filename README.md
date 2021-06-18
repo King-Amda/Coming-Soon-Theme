@@ -35,7 +35,7 @@ Host in any platform, codes are responsive as well as friendly and simple to und
 
 # License
 
-![Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)
+[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 
 
