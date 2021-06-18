@@ -5,7 +5,9 @@ Responsive Template written in HTML5,CSS & Javacript.
 
 [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://krishna6688.github.io/Coming-Soon/)
 
-[![fork my repository](https://img.shields.io/badge/Fork-Now-green?style=flat-square)](https://github.com/user/repository/fork)
+
+
+[![fork my repository](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/user/repository/fork)
 
 
 #Author
