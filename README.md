@@ -3,7 +3,7 @@
 Responsive Template written in HTML5,CSS & Javacript.
 
 
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://krishna6688.github.io/Coming-Soon/)
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://krishna6688.github.io/Coming-Soon-Theme/)
 
 
 
@@ -27,8 +27,8 @@ Responsive Template written in HTML5,CSS & Javacript.
 <br>
 <br>
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/Krishna6688/exmatrix)
-![Repo Size](https://img.shields.io/github/repo-size/Krishna6688/exmatrix?style=flat-square)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://krishna6688.github.io/Coming-Soon-Theme/)
+![Repo Size](https://img.shields.io/github/repo-size/Krishna6688/Coming-Soon-Theme?style=flat-square)
 <br>
 
 
