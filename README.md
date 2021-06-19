@@ -1,6 +1,8 @@
 # Description
 
-Responsive Template written in HTML5,CSS & Javacript.
+Responsive Template written in HTML5,CSS & Javacript with background music. 
+
+Note:- Background musics will autoplay if your browser give permission to play. 
 
 
 [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://krishna6688.github.io/Coming-Soon-Theme/)
